@@ -25,4 +25,5 @@ This version of the Simon Game is built using HTML, CSS, and JavaScript and prov
 - Strengthened debugging and testing skills through iterative development and handling user-driven edge cases.
 
   ## Link to the Game-
+   https://umama-khanam.github.io/Simon_Game-/
   
