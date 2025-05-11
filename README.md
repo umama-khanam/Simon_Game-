@@ -1,5 +1,4 @@
 # Simon_Game-
-🎮 Simon Game
 This is a web-based implementation of the classic Simon Game, a popular memory game that challenges users to remember and repeat an increasingly long sequence of patterns. In this game, a sequence of colored buttons lights up in a specific order, and the player must repeat the exact sequence by clicking the buttons in the same pattern. If the player successfully repeats the sequence, a new pattern is added, and the game continues. The goal is to follow the pattern as long as possible without making a mistake.
 
 The original Simon Game was invented by Ralph H. Baer and Howard J. Morrison and was first released by Milton Bradley in 1978.
